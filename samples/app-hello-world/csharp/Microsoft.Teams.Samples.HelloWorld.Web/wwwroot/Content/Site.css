@@ -6,3 +6,9 @@
 div.panel {
     padding: 15px;
 }
+
+.cssappversion {
+    float: right !important;
+    padding: 20px !important; 
+    font-size:10px;
+}
