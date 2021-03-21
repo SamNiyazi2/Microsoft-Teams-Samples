@@ -11,6 +11,9 @@
     
 <body class="theme-light">
     <div class="surface">
+        
+        @await Html.PartialAsync("MenuOptions")
+
         <div class="panel">
             @RenderBody()
         </div>
